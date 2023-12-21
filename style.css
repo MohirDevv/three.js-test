@@ -1,0 +1,12 @@
+body{
+  background: #252525;
+}
+
+canvas{
+  margin: 0 auto;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
